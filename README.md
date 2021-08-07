@@ -1,4 +1,4 @@
-# example-polly
+# Demos AWS SDK JavaScript
 
 ## Project setup
 ```
